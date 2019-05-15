@@ -1,0 +1,35 @@
+[33mcommit be2f179289f97ec5b5e60b3a32f947436e434dcd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Guiraudie <louis.guiraudie@epitech.eu>
+Date:   Sun Mar 17 20:26:26 2019 +0100
+
+    My_cinema
+
+[33mcommit 9a2ada307ed89204b9a95f08f57ead1f2e22ebbe[m
+Author: Guiraudie <louis.guiraudie@epitech.eu>
+Date:   Fri Mar 15 17:20:56 2019 +0100
+
+    normes et bdd
+
+[33mcommit 1c0e5da7913781578e4407d2c92f40525b6124e0[m
+Author: Guiraudie <louis.guiraudie@epitech.eu>
+Date:   Fri Mar 15 09:58:30 2019 +0100
+
+    parametre optionnel
+
+[33mcommit 6e88beacd4990b478f370737a3296049086b5bbb[m
+Author: Guiraudie <louis.guiraudie@epitech.eu>
+Date:   Tue Mar 12 17:31:20 2019 +0100
+
+    relations de model
+
+[33mcommit e6df7a76c1d8e298d5d2a8d8773ca42223ac34c9[m
+Author: Guiraudie <louis.guiraudie@epitech.eu>
+Date:   Fri Mar 8 17:28:31 2019 +0100
+
+    ORM
+
+[33mcommit 18f1dc2ea1ba7f273c458e603b9f6b2adaf02f49[m
+Author: Guiraudie <louis.guiraudie@epitech.eu>
+Date:   Thu Mar 7 22:41:41 2019 +0100
+
+    soutenance intermediaire
